@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.ipynb_checkpoints/
+data/
+datasets/
+*.pth
+*.pt
+*.h5
+*.ckpt
+wandb/
+runs/
+lightning_logs/
+.env
